@@ -1,5 +1,5 @@
 {
-  "wprelay_paypal": {
+  "wprelay-paypal": {
     "name": "WPRelay Paypal",
     "description": "Payouts Using Paypal for WP-Relay",
     "icon_url": "https://cdn.jsdelivr.net/gh/wprelay/wprelay-addons@add_on_list/icons/paypal.png",
@@ -16,7 +16,7 @@
     },
     "is_pro": false
   },
-  "wprelay_tremendous": {
+  "wprelay-tremendous": {
     "name": "WPRelay Tremendous",
     "description": "Gift Cards for WPRelay",
     "icon_url": "https://cdn.jsdelivr.net/gh/wprelay/wprelay-addons@add_on_list/icons/tremendous.png",
