@@ -1,0 +1,36 @@
+{
+  "wprelay_paypal": {
+    "name": "WPRelay Paypal",
+    "description": "Payouts Using Paypal for WP-Relay",
+    "icon_url": "https://cdn.jsdelivr.net/gh/wprelay/wprelay-addons@add_on_list/icons/paypal.png",
+    "product_url": "https://www.wprelay.com/products",
+    "download_url": "https://github.com/wprelay/paypal-integration/releases/download/0.0.6/wprelay-paypal.zip",
+    "plugin_file": "wprelay-paypal/wprelay-paypal.php",
+    "page_url": "{addon_page}",
+    "settings_url": "",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "wprelay_core": "1.0.1",
+      "wdr_pro": "1.0.1"
+    },
+    "is_pro": false
+  },
+  "wprelay_tremendous": {
+    "name": "WPRelay Tremendous",
+    "description": "Gift Cards for WPRelay",
+    "icon_url": "https://cdn.jsdelivr.net/gh/wprelay/wprelay-addons@add_on_list/icons/tremendous.png",
+    "product_url": "https://www.wprelay.com/products",
+    "download_url": "https://github.com/wprelay/tremendous-integration/releases/download/0.0.5/wprelay-tremendous.zip",
+    "plugin_file": "wprelay-tremendous/wprelay-tremendous.php",
+    "page_url": "{addon_page}",
+    "settings_url": "",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "wprelay_core": "1.0.1",
+      "wdr_pro": "1.0.1"
+    },
+    "is_pro": false
+  }
+}
