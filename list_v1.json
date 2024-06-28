@@ -4,15 +4,15 @@
     "description": "PayPal allows payment through PayPal account balances. You can use PayPal as a payment provider for affiliates for your store.",
     "icon_url": "https://cdn.jsdelivr.net/gh/wprelay/wprelay-addons@add_on_list/icons/paypal.png",
     "product_url": "https://www.wprelay.com/products",
-    "download_url": "https://github.com/wprelay/paypal-integration/releases/download/0.0.6/wprelay-paypal.zip",
+    "download_url": "https://github.com/wprelay/paypal-integration/releases/download/0.0.7/wprelay-paypal.0.0.7.zip",
     "plugin_file": "wprelay-paypal/wprelay-paypal.php",
     "page_url": "{addon_page}",
     "settings_url": "",
     "requires": {
       "wp": "",
       "wc": "",
-      "wprelay_core": "1.0.1",
-      "wdr_pro": "1.0.1"
+      "wprelay_core": "1.0.3",
+      "wprelay_pro": "1.0.3"
     },
     "is_pro": false
   },
@@ -21,15 +21,15 @@
     "description": "Use Tremendous to send rewards, incentives, and payouts globally. Our API puts 800+ payout methods at your fingertips, including ACH transfers, Amazon.com gift cards, Visa and Mastercard prepaid cards, PayPal / Venmo transfers, and charity donations",
     "icon_url": "https://cdn.jsdelivr.net/gh/wprelay/wprelay-addons@add_on_list/icons/tremendous.png",
     "product_url": "https://www.wprelay.com/products",
-    "download_url": "https://github.com/wprelay/tremendous-integration/releases/download/0.0.5/wprelay-tremendous.zip",
+    "download_url": "https://github.com/wprelay/tremendous-integration/releases/download/0.0.7/wprelay-tremendous.0.0.7.zip",
     "plugin_file": "wprelay-tremendous/wprelay-tremendous.php",
     "page_url": "{addon_page}",
     "settings_url": "",
     "requires": {
       "wp": "",
       "wc": "",
-      "wprelay_core": "1.0.1",
-      "wdr_pro": "1.0.1"
+      "wprelay_core": "1.0.3",
+      "wprelay_pro": "1.0.3"
     },
     "is_pro": false
   }
