@@ -1,6 +1,6 @@
 {
   "wprelay-paypal": {
-    "name": "WPRelay Paypal",
+    "name": "RelayWP Paypal",
     "description": "PayPal allows payment through PayPal account balances. You can use PayPal as a payment provider for affiliates for your store.",
     "icon_url": "https://cdn.jsdelivr.net/gh/wprelay/wprelay-addons@add_on_list/icons/paypal.png",
     "product_url": "https://www.wprelay.com/products",
@@ -11,13 +11,13 @@
     "requires": {
       "wp": "",
       "wc": "",
-      "wprelay_core": "1.0.3",
-      "wprelay_pro": "1.0.3"
+      "wprelay_core": "1.0.5",
+      "wprelay_pro": "1.0.5"
     },
     "is_pro": false
   },
   "wprelay-tremendous": {
-    "name": "WPRelay Tremendous",
+    "name": "RelayWP Tremendous",
     "description": "Use Tremendous to send rewards, incentives, and payouts globally. Our API puts 800+ payout methods at your fingertips, including ACH transfers, Amazon.com gift cards, Visa and Mastercard prepaid cards, PayPal / Venmo transfers, and charity donations",
     "icon_url": "https://cdn.jsdelivr.net/gh/wprelay/wprelay-addons@add_on_list/icons/tremendous.png",
     "product_url": "https://www.wprelay.com/products",
@@ -28,8 +28,8 @@
     "requires": {
       "wp": "",
       "wc": "",
-      "wprelay_core": "1.0.3",
-      "wprelay_pro": "1.0.3"
+      "wprelay_core": "1.0.5",
+      "wprelay_pro": "1.0.5"
     },
     "is_pro": false
   }
